@@ -12,8 +12,9 @@ Laboratórios relacionados à análise e exploração de vulnerabilidades envolv
 
 | Lab                                                                       | Descrição                                                                                                 | Status      |
 | ------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------- | ----------- |
-| [Lab 01 - Path Mapping](./web-cache-deception/lab-01-pathmapping/)        | Exploração de discrepâncias no mapeamento de caminhos entre cache e servidor de origem                    | ✅ Concluído |
-| [Lab 02 - Path Delimiters](./web-cache-deception/lab-02-path-delimiters/) | Exploração de discrepâncias na interpretação de delimitadores de caminho entre cache e servidor de origem | ✅ Concluído |
+| [Lab 01 - Path Mapping](./web-cache-deception/lab-01-path-mapping/)        | Exploração de discrepâncias no mapeamento de caminhos entre cache e servidor de origem                    | ✅ Concluído |
+| [Lab 02 - Path Delimiters](./web-cache-deception/lab-02-path-delimiter/) | Exploração de discrepâncias na interpretação de delimitadores de caminho entre cache e servidor de origem | ✅ Concluído |
+| [Lab 03 - Origin Normalization](./web-cache-deception/lab-03-origin-normalizations/) | Exploração de discrepâncias na normalização de caminhos entre cache e servidor de origem | ✅ Concluído |
 
 ## 🛠️ Competências praticadas
 
